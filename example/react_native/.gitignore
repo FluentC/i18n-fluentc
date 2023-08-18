@@ -1,12 +1,3 @@
-*~
-node_modules
-package-lock.json
-yarn.lock
-cjs
-esm
-
-
-# Add React Native ignore files
 # OSX
 #
 .DS_Store
